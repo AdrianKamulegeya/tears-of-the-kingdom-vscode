@@ -1,0 +1,51 @@
+{
+  "name": "tears-of-the-kingdom-vscode",
+  "displayName": "Tears of the Kingdom Theme",
+  "description": "A minimal, material-inspired VS Code dark theme based on The Legend of Zelda: Tears of the Kingdom",
+  "version": "0.1.0",
+  "publisher": "AdrianKamulegeya",
+  "author": {
+    "name": "Adrian Kamulegeya",
+    "email": "adriankaulegeya@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "zelda",
+    "tears of the kingdom",
+    "totk",
+    "material",
+    "minimal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tears of the Kingdom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tears-of-the-kingdom-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianKamulegeya/tears-of-the-kingdom-vscode"
+  },
+  "homepage": "https://github.com/AdrianKamulegeya/tears-of-the-kingdom-vscode/blob/master/README.md",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.28.6",
+    "@babel/eslint-parser": "^7.28.6",
+    "@upstatement/eslint-config": "^3.0.0",
+    "@upstatement/prettier-config": "^1.1.0",
+    "@vscode/vsce": "^3.7.1",
+    "eslint": "^8.57.1",
+    "eslint-config-prettier": "^9.1.2",
+    "prettier": "^3.8.0"
+  }
+}
