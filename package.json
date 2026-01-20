@@ -1,0 +1,36 @@
+{
+  "name": "tears-of-the-kingdom-theme",
+  "displayName": "Tears of the Kingdom Theme",
+  "description": "A minimal, material-inspired VS Code dark theme based on The Legend of Zelda: Tears of the Kingdom",
+  "version": "0.1.0",
+  "publisher": "AdrianKamulegeya",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "zelda",
+    "tears of the kingdom",
+    "totk",
+    "material",
+    "minimal"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tears of the Kingdom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tears-of-the-kingdom-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianKamulegeya/tears-of-the-kingdom-vscode"
+  },
+  "license": "MIT"
+}
