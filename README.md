@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="TOTK Logo" src="https://raw.githubusercontent.com/AdrianKamulegeya/tears-of-the-kingdom-vscode/master/images/icon.png" width="100" />
+  <img alt="TOTK Logo" src="https://raw.githubusercontent.com/AdrianKamulegeya/tears-of-the-kingdom-vscode/master/assets/icon.png" width="100" />
 </p>
 <h1 align="center">
   Tears of the Kingdom Theme for VS Code
