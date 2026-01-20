@@ -8,6 +8,7 @@
     "name": "Adrian Kamulegeya",
     "email": "adriankaulegeya@gmail.com"
   },
+  "icon": "assets/icon.png",
   "engines": {
     "vscode": "^1.60.0"
   },
@@ -24,11 +25,16 @@
     "minimal"
   ],
   "contributes": {
-    "themes": [
+     "themes": [
       {
-        "label": "Tears of the Kingdom",
+        "label": "TOTK Minimal Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/tears-of-the-kingdom-color-theme.json"
+        "path": "./themes/totk-minimal-dark.json"
+      },
+      {
+        "label": "TOTK Minimal Dark – Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/totk-minimal-dark-midnight.json"
       }
     ]
   },
