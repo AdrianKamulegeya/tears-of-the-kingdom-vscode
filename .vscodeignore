@@ -1,6 +1,6 @@
 .git
 .gitignore
 .vscode
-*.md
+CHANGELOG.md
 examples/
 
