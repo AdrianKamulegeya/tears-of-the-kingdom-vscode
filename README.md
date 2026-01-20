@@ -1,11 +1,17 @@
-# Tears of the Kingdom – Minimal Dark
-
-A minimal, material-inspired VS Code dark theme based on  
-**The Legend of Zelda: Tears of the Kingdom**.
-
+<p align="center">
+  <img alt="TOTK Logo" src="https://raw.githubusercontent.com/AdrianKamulegeya/tears-of-the-kingdom-vscode/master/images/icon.png" width="100" />
+</p>
+<h1 align="center">
+  Tears of the Kingdom Theme for VS Code
+</h1>
+<p align="center">
+ A minimal, material-inspired VS Code dark theme based on **The Legend of Zelda: Tears of the Kingdom**.
+</p>
+<p align="center">
 Designed for long coding sessions, this theme uses muted greens, ancient teals,
 stone blues, and soft golds inspired by Zonai technology — without harsh contrast
 or blinding colours.
+</p>
 
 ---
 
