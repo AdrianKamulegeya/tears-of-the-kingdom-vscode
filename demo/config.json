@@ -1,0 +1,25 @@
+{
+  "name": "Tears of the Kingdom Theme Demo",
+  "version": "1.0.0",
+  "settings": {
+    "theme": "totk-minimal-dark",
+    "fontSize": 14,
+    "fontFamily": "Fira Code",
+    "lineHeight": 1.5,
+    "enabled": true
+  },
+  "features": {
+    "autoSave": true,
+    "formatOnSave": false,
+    "minimap": {
+      "enabled": true,
+      "maxColumn": 120
+    }
+  },
+  "colors": {
+    "primary": "#4A90E2",
+    "secondary": "#E94E77",
+    "accent": "#50C878",
+    "background": "#1E1E1E"
+  }
+}

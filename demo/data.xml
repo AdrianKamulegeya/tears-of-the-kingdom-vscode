@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shrines xmlns="http://example.com/totk" version="1.0">
+    <!-- Shrine Database for Tears of the Kingdom -->
+    <metadata>
+        <title>Hyrule Shrine Database</title>
+        <author>Link</author>
+        <created>2026-01-20</created>
+        <total>152</total>
+    </metadata>
+
+    <shrine id="shrine_001" completed="true">
+        <name>Oman Au Shrine</name>
+        <location region="Central Hyrule">
+            <coordinates x="100.5" y="200.3" z="15.0"/>
+        </location>
+        <type>Combat</type>
+        <rewards>
+            <reward type="item">Spirit Orb</reward>
+            <reward type="weapon">Traveler's Sword</reward>
+        </rewards>
+        <description>
+            <![CDATA[
+                The first shrine on the Great Plateau.
+                Teaches basic combat mechanics.
+            ]]>
+        </description>
+    </shrine>
+
+    <shrine id="shrine_002" completed="false">
+        <name>Ja Baij Shrine</name>
+        <location region="Central Hyrule">
+            <coordinates x="150.2" y="180.7" z="12.5"/>
+        </location>
+        <type>Puzzle</type>
+        <rewards>
+            <reward type="item">Spirit Orb</reward>
+        </rewards>
+        <puzzle difficulty="medium">
+            <objective>Use Magnesis to solve the puzzle</objective>
+            <hint>Look for metallic objects</hint>
+        </puzzle>
+    </shrine>
+
+    <shrine id="shrine_003" completed="true">
+        <name>Keh Namut Shrine</name>
+        <location region="Hebra Mountains">
+            <coordinates x="95.8" y="220.1" z="8.3"/>
+        </location>
+        <type>Blessing</type>
+        <rewards>
+            <reward type="item">Spirit Orb</reward>
+            <reward type="armor">Climber's Bandana</reward>
+        </rewards>
+    </shrine>
+</shrines>
