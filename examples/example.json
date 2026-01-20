@@ -1,0 +1,32 @@
+{
+  "quest": {
+    "id": 1,
+    "name": "Destroy Ganondorf",
+    "description": "Defeat the Demon King and save Hyrule",
+    "difficulty": "legendary",
+    "rewards": {
+      "hearts": 10,
+      "rupees": 5000,
+      "items": ["Zelda's Blessing", "Hero's Tunic"]
+    },
+    "objectives": [
+      {
+        "id": 1,
+        "description": "Find the Master Sword",
+        "completed": true
+      },
+      {
+        "id": 2,
+        "description": "Awaken the Sages",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "description": "Confront Ganondorf",
+        "completed": false
+      }
+    ],
+    "isActive": true,
+    "progress": 66.7
+  }
+}
