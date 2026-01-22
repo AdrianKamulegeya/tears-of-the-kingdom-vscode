@@ -12,7 +12,7 @@ Designed for long coding sessions, this theme uses muted greens, ancient teals,
 stone blues, and soft golds inspired by Zonai technology — without harsh contrast
 or blinding colours.
 </p>
-<img width="1874" height="1025" alt="image" src="https://github.com/user-attachments/assets/c55eadcc-d7f2-4fe7-9019-59347f9f2530" />
+<img width="720" height="393" alt="image" src="https://raw.githubusercontent.com/AdrianKamulegeya/tears-of-the-kingdom-vscode/master/assets/demo.png" />
 
 
 ---
